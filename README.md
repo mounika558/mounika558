@@ -1,4 +1,8 @@
-<p align="left">Hello Techs!!<br>I am Mounika pursuing Bachelor of Technology in Information Technology in Sri Ramakrishna Engineering College <br><br>Active learner of front end development in Spotknack<br> <br>Also interested in Video Editing and Designing</p>
+<h2 align="left">Hello Tech!!</h2>
+
+###
+
+<p align="left">I am Mounika pursuing Bachelor of Technology in Information Technology in Sri Ramakrishna Engineering College <br><br>Active learner of front end development in Spotknack<br> <br>Also interested in Video Editing and Designing</p>
 
 ###
 
@@ -10,7 +14,12 @@
   <a href="https://www.linkedin.com/in/mounika-d-6b0619258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="https://medium.com/@mounikakishor2775" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://t.me/Mounika" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
