@@ -1,12 +1,12 @@
 
 <h1 align="center">💫Hello Techs!!</h1>
 <h1>💡About Me</h1>
-<br><br>Myself Mounika, a B.Tech IT student at Sri Ramakrishna Engineering College. <br>I’m excited to be actively learning front-end development at spotknack<br>and eager to collaborate on industry projects and expand my knowledge<br>through shared experiences.
+<br>Myself Mounika, a B.Tech IT student at Sri Ramakrishna Engineering College. <br>I’m excited to be an active learner of front-end development at spotknack<br>and eager to collaborate on industry projects and expand my knowledge<br>through shared experiences.
 <br>Additionally, I have a interest in UI/UX design and video editing.<br><br>
 <i>"If you didn't fight for what you want ,then don't cry for what you lost.</i>"<br><br>
 
 <h1>💡 View My portfolio here </h1>
-"Explore my portfolio at [yourportfolio.com] to see my latest front-end projects and design work.<br>
+"Explore my portfolio at  https://portfolio-mounika-s-projects.vercel.app/ to see my latest front-end projects and design work.<br>
 Creating stunning, responsive web designs from concepts Acquiring knowledge
 
 ## <h1>🌐 Socials: Let's Connect </h1>
